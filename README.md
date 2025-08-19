@@ -58,7 +58,6 @@
 
 ###
 
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroAlmeida232/PedroAlmeida232/output/pacman-contribution-graph-dark.svg">
