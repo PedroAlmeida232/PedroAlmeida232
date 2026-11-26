@@ -1,85 +1,42 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ3MWJqaDNuY3EzbGR6ODBvZXVrNjFjb2dyYTNkZDYzZHZ6dGl4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
+<a href="https://SEU-PORTFOLIO-AQUI"><img src="assets/header.svg" width="100%" alt="Pedro Almeida :) Engenheiro de Software com foco em back-end. Hoje na Mundivox, estudando na FIAP." /></a>
 
-###
+<p>
+  <!-- TODO: troque https://SEU-PORTFOLIO-AQUI pelo endereço do portfólio (aparece 2 vezes) -->
+  <a href="https://SEU-PORTFOLIO-AQUI"><img src="assets/btn-portfolio.svg" height="44" alt="Portfólio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pedrorodriguesalmeida232"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-rodrigues-almeida-63779a227/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<br />
 
-###
+<img src="assets/s-sobre.svg" width="100%" alt="01 Sobre" />
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PedroAlmeida232.PedroAlmeida232&"  />
-</div>
+<img align="right" width="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ3MWJqaDNuY3EzbGR6ODBvZXVrNjFjb2dyYTNkZDYzZHZ6dGl4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Gato programando no notebook" />
 
-###
+Engenheiro de Software com foco em back-end. Trabalho com Python e PostgreSQL, e hoje desenvolvo software e automatizo processos na Mundivox.
 
-<h1 align="center">Welcome 👋</h1>
+Comecei a programar pela lógica e fui parar no back-end porque gosto de entender de onde o dado vem e para onde ele vai. Estudo Engenharia de Software na FIAP e moro em São Paulo.
 
-###
+<br clear="right" />
 
-<h2 align="left">👩‍💻  About Me</h2>
+<img src="assets/s-projeto.svg" width="100%" alt="02 Projeto em destaque" />
 
-###
+<img src="assets/projeto.svg" width="100%" alt="Automação de prospecção na Mundivox: dados de CNPJ, geolocalização com a API do Nominatim, distância até a rede e lead qualificado para o time de SDR. Python, PostgreSQL, API Nominatim. Em produção." />
 
-<h3 align="left">Hi, I'm Pedro Almeida, a Software Engineer. Currently studying Software Engineering at FIAP.</h3>
+<br />
 
-###
+<img src="assets/s-stack.svg" width="100%" alt="03 Stack" />
 
-<h2 align="left">🛠 Language and tools</h2>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,postgres,react,tailwind,git&theme=dark" height="48" alt="Java, Spring Boot, Node.js, Python, PostgreSQL, React, Tailwind CSS, Git" />
 
-###
+<br />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
+<img src="assets/s-github.svg" width="100%" alt="04 No GitHub" />
 
+<p>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroAlmeida232&layout=compact&langs_count=6&border_radius=16&bg_color=0B1020&border_color=1E2A47&title_color=F2F4F7&text_color=AEB8CC&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" />
+  <img height="175" src="https://streak-stats.demolab.com?user=PedroAlmeida232&locale=pt_BR&border_radius=16&background=0B1020&border=1E2A47&stroke=1E2A47&ring=2F5BFF&fire=2F5BFF&currStreakNum=F2F4F7&currStreakLabel=8FA2FF&sideNums=F2F4F7&sideLabels=AEB8CC&dates=7F8AA3" alt="Sequência de contribuições" />
+</p>
 
+<br />
 
-
-
-###
-
-
-<h2 align="left">🔥   My Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroAlmeida232&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=PedroAlmeida232&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-
+<a href="https://www.linkedin.com/in/pedrorodriguesalmeida232"><img src="assets/footer.svg" width="100%" alt="Vamos conversar? Aberto a estágio e vagas júnior em back-end." /></a>
